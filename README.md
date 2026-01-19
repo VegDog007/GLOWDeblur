@@ -66,9 +66,9 @@ GLOWDeblur combines:
 ## BibTeX
 
 ```bibtex
-@article{gao2024toward,
-  title   = {Toward Generalizable Deblurring: Leveraging Massive Blur Priors with Linear Attention for Real-World Scenarios},
-  author  = {Gao, Yuanting and Cao, Shuo and Li, Xiaohui and Pu, Yuandong and Liu, Yihao and Zhang, Kai},
-  journal = {Conference Name},
-  year    = {2024}
-}xxxxxxxxxx @article{gao2024toward,  title   = {Toward Generalizable Deblurring: Leveraging Massive Blur Priors with Linear Attention for Real-World Scenarios},  author  = {Gao, Yuanting and Cao, Shuo and Li, Xiaohui and Pu, Yuandong and Liu, Yihao and Zhang, Kai},  journal = {Conference Name},  year    = {2024}}xxxxxxxxxx @article{gao2024toward,  title   = {Toward Generalizable Deblurring: Leveraging Massive Blur Priors with Linear Attention for Real-World Scenarios},  author  = {Gao, Yuanting and Cao, Shuo and Li, Xiaohui and Pu, Yuandong and Liu, Yihao and Zhang, Kai},  journal = {Conference Name},  year    = {2024}}bibtexbibtex
+@article{gao2026toward,
+  title={Toward Generalizable Deblurring: Leveraging Massive Blur Priors with Linear Attention for Real-World Scenarios},
+  author={Gao, Yuanting and Cao, Shuo and Li, Xiaohui and Pu, Yuandong and Liu, Yihao and Zhang, Kai},
+  journal={arXiv preprint arXiv:2601.06525},
+  year={2026}
+}
